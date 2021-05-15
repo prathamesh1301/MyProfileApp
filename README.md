@@ -1,6 +1,6 @@
 # intro
 
-A new Flutter project.
+My first flutter project which consists my information along with my image.
 
 ## Getting Started
 
